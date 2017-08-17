@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InterThread</string>
+    <!--五种子线程与主线程之间通信方式-->
+    <string name="thread_inter_a">RunOnUiThread实现主&amp;子线程间通信</string>
+    <string name="thread_inter_b">View.post(runnable)实现主&amp;子线程间通信</string>
+    <string name="thread_inter_c">View.post(runnable, delayTime)实现主&amp;子线程间通信</string>
+    <string name="thread_inter_d">Handler实现主&amp;子线程间通信</string>
+    <string name="thread_inter_e">AsyncTask实现主&amp;子线程间通信</string>
+</resources>
